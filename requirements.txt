@@ -1,0 +1,11 @@
+beautifulsoup4
+langchain
+langchain_chroma
+langchain_community
+langchain_core
+langchain_google_genai
+langchain_text_splitters
+pyttsx3
+streamlit
+python-dotenv
+SpeechRecognition
